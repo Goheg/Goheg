@@ -11,7 +11,7 @@ Passionate about building efficient and scalable applications. Always eager to l
 ## 🏆 Projects  
 - **[Market App](https://github.com/Goheg/MarketApp)** - A smart inventory management app where users can track purchases by subtracting amounts when items are bought.  
 - **[Blog Website](https://github.com/Goheg/simple-Blog-website)** - A platform for sharing articles and insights.  
-- **[Joke Website](#)** - A fun project using JokeAPI to deliver random jokes.  
+- **[Joke Website](https://github.com/Goheg/JokeApi)** - A fun project using JokeAPI to deliver random jokes.  
 - **[Book Tracker](#)** - A project that allows users to add books they've read, utilizing the Open Library API and storing data in a local PostgreSQL database.  
 
 ## 💡 Open Source Contributions  
