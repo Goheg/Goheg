@@ -4,7 +4,7 @@
 Passionate about building efficient and scalable applications. Always eager to learn new technologies and contribute to open-source projects.  
 
 ## 🚀 Skills & Technologies  
-- **Languages:** JavaScript, Kotlin, Node.js, Express.js  
+- **Languages:** JavaScript, Kotlin, Jetpack compose, Node.js, Express.js  
 - **Tools & Libraries:** npm  
 - **Databases:** SQL, PostgreSQL  
 
