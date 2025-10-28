@@ -1,32 +1,111 @@
-# 👋 Hi, I'm Evans Ogidigo  
-### Tech Enthusiast & Developer  
+# 👋 Hi, I'm Evans Ogidigo
+### Backend Developer & Problem Solver
 
-Passionate about building efficient and scalable applications. Always eager to learn new technologies and contribute to open-source projects.  
+I build backend systems that actually serve people, not just meet technical specs.
 
-## 🚀 Skills & Technologies  
-- **Languages:** JavaScript, Kotlin, Jetpack compose, Node.js, Express.js  
-- **Tools & Libraries:** npm  
-- **Databases:** SQL, PostgreSQL  
+Let's cut to the chase: You're here to see if I can solve problems, ship products, and bring value. The answer? ✅
 
-## 🏆 Projects  
-- **[Market App](https://github.com/Goheg/MarketApp)** - A smart inventory management app where users can track purchases by subtracting amounts when items are bought.  
-- **[Blog Website](https://github.com/Goheg/simple-Blog-website)** - A platform for sharing articles and insights. Created with restFulAPI 
-- **[Joke Website](https://github.com/Goheg/JokeApi)** - A fun project using JokeAPI to deliver random jokes.  
-- **[Book Tracker](https://github.com/Goheg/book-tracker.git)** - A project that allows users to add books they've read, utilizing the Open Library API and storing data in a local PostgreSQL database.
-- **[Comonvist](https://github.com/Goheg/Comonvist.git)** - A site where users login to comment on where they have visited for other to see and learn. Done using Fontend(HTML, CSS, JS ) and backend(Nodejs, Expressjs, SQL)
+I'm a developer with hands-on experience — not just pushing code, but building things that people use.
 
-## 💡 Open Source Contributions  
-- Active contributor to open-source projects.  
-- Collaborated with **Joshua Olatunbosun** on various projects.  
+## 🌍 A Bit About Me
 
-## 📫 Contact Me  
-Want to collaborate or discuss something tech-related? Reach out via email!  
+My journey into tech started with a Mechanical Engineering background, which gave me a strong foundation in problem-solving and systematic thinking. I'm a self-taught Node.js and Express developer who then expanded into mobile development with Jetpack Compose. This unique path gives me a practical, engineering-focused approach to building software.
+
+I bring focused energy and a practical approach to development. I specialize in building real-world solutions that connect users with valuable services. From web applications to mobile apps, I work efficiently, think critically, and deliver.
+
+My core stack is Node.js with Express, but the truth? Tools change. What matters is knowing how to use them to build things that work.
+
+## 🚀 Projects That Matter
+
+### 🔮 Exideus Avatars
+Imagine being on a call and actually understanding how someone feels — not just what they're saying. That's what we built.
+
+Exideus is an emotionally intelligent, real-time AI video avatar platform. It's not just about talking to an AI — it's about reading emotions, behavior, and intent. The real magic? The insights.
+
+**Tech I used:**
+- 🧠 **RAG (Retrieval-Augmented Generation)** for smart, context-aware responses
+- 🔁 **n8n** to build backend workflows, automate data handling, and AI integration
+- 🗣 **11Labs** for lifelike voice generation
+- 🎙 **Retell AI** for real-time voice agent interactions
+
+### 🧠 Empathicscan - AI-Powered Emotional Analysis
+An innovative platform that analyzes emotional intelligence through advanced AI processing and automated workflows.
+
+**Live Site:** [https://empathicscan.com/](https://empathicscan.com/)
+
+**Tech Stack & Contributions:**
+- 🔄 **n8n** for complex workflow automation and data processing
+- 📊 **Tally Forms** for seamless user data collection and integration
+- 🗣 **11Labs** for lifelike voice synthesis and audio analysis
+- 🤖 **AI Integration** for emotional analysis and insights generation
+- ⚡ **Automated pipelines** for real-time data processing
+
+### 🚗 Auto Janded - Car Booking Platform
+A modern car rental platform that simplifies vehicle booking with seamless user experience and automated communications.
+
+**Live Demo:** [https://auto-janded.vercel.app/](https://auto-janded.vercel.app/)
+
+**What I built:**
+- 🚀 **Node.js** backend with robust API architecture
+- 📧 **SMTP Integration** for automated booking confirmations and notifications
+- ☁️ **Vercel** for seamless deployment and hosting
+- 💼 **Booking management** system with real-time availability
+
+### 🛒 Market App - Smart Inventory Management
+A smart inventory management app where users can track purchases by automatically subtracting amounts when items are bought.
+
+**What I delivered:**
+- 📱 **Kotlin & Jetpack Compose** for modern, responsive Android UI
+- 🗄️ **Room Database** for efficient local data persistence
+- 🔄 **Clean Architecture** for maintainable, scalable codebase
+- 📊 **Real-time inventory tracking** with automatic quantity updates
+
+### 😄 Joke Website
+A fun project demonstrating API integration skills using JokeAPI to deliver random jokes.
+
+## ⚙️ Tech Stack That I Actually Use
+
+This isn't about buzzwords — these are the tools I use to build, test, and deploy real solutions.
+
+**Languages & Core Tools:**
+JavaScript, Node.js, Kotlin, Jetpack Compose
+
+**Frameworks & APIs:**
+Express.js, REST API
+
+**Databases:**
+MongoDB, MySQL, PostgreSQL, SQL
+
+**AI & Automation:**
+n8n – workflow automation and data processing  
+11Labs – lifelike voice synthesis  
+Retell AI – real-time voice agents  
+RAG – smart, context-aware AI conversations  
+GoHighLevel (GHL) – CRM and automation
+
+**DevOps & Tools:**
+npm, Git, GitHub Actions, Vercel, SMTP
+
+## 🏆 Open Source Contributions
+- Active contributor to meaningful open-source projects
+- Collaborated with **Joshua Olatunbosun** on various initiatives
+- Believe in building in public and sharing knowledge
+
+## 📬 Let's Connect
+
+I'm always down to build great things with smart people. Want to work together? Talk shop? Pitch me something? Let's go:
+
 📧 **Ogidigoevans@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/evans-ogidigo-878331240/)  
+💻 [GitHub](https://github.com/Goheg)
+
+**Let's build something real.** 🚀
 
 ---
 
-### Fun Fact  
-_"Code is like humor. When you have to explain it, it’s bad."_ – Cory House  
+### 💡 Developer Philosophy
+_"Code is like humor. When you have to explain it, it's bad."_ – Cory House  
+I believe in writing clean, self-documenting code that just works.
 
 <!---
 Goheg/Goheg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
