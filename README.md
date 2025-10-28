@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Evans Ogidigo
-### Backend Developer & Problem Solver
+### Backend Developer 
 
 I build backend systems that actually serve people, not just meet technical specs.
 
