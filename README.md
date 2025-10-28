@@ -25,8 +25,6 @@ Exideus is an emotionally intelligent, real-time AI video avatar platform. It's 
 **Tech I used:**
 - 🧠 **RAG (Retrieval-Augmented Generation)** for smart, context-aware responses
 - 🔁 **n8n** to build backend workflows, automate data handling, and AI integration
-- ☁️ **AWS** for deployment & scaling
-- 🛠 **Sentry** for error tracking and debugging
 - 🗣 **11Labs** for lifelike voice generation
 - 🎙 **Retell AI** for real-time voice agent interactions
 
@@ -85,7 +83,7 @@ This isn't about buzzwords — these are the tools I use to build, test, and dep
 JavaScript, Node.js, Kotlin, Jetpack Compose, Python
 
 **Frameworks & APIs:**
-Express.js, REST API, FastAPI
+Express.js, REST API
 
 **Databases:**
 MongoDB, MySQL, PostgreSQL, SQL
@@ -96,7 +94,7 @@ n8n – workflow automation and data processing
 Retell AI – real-time voice agents  
 RAG – smart, context-aware AI conversations  
 OpenAI – intelligent chat and AI capabilities  
-GoHighLevel (GHL) – CRM and automation
+GoHighLevel (GHL)  – CRM and automation
 
 **DevOps & Tools:**
 npm, Git, GitHub Actions, Vercel, SMTP
