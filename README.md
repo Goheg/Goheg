@@ -25,6 +25,8 @@ Exideus is an emotionally intelligent, real-time AI video avatar platform. It's 
 **Tech I used:**
 - 🧠 **RAG (Retrieval-Augmented Generation)** for smart, context-aware responses
 - 🔁 **n8n** to build backend workflows, automate data handling, and AI integration
+- ☁️ **AWS** for deployment & scaling
+- 🛠 **Sentry** for error tracking and debugging
 - 🗣 **11Labs** for lifelike voice generation
 - 🎙 **Retell AI** for real-time voice agent interactions
 
@@ -39,6 +41,18 @@ An innovative platform that analyzes emotional intelligence through advanced AI 
 - 🗣 **11Labs** for lifelike voice synthesis and audio analysis
 - 🤖 **AI Integration** for emotional analysis and insights generation
 - ⚡ **Automated pipelines** for real-time data processing
+
+### 🎓 FUOYE Chatbot - University AI Assistant
+An intelligent university chatbot that provides real-time answers to student inquiries, making campus information accessible instantly.
+
+**Live Demo:** [https://fuoye-chatbot.vercel.app/](https://fuoye-chatbot.vercel.app/)
+
+**What I built:**
+- ⚛️ **React.js** frontend for responsive user interface
+- 🐍 **Python (FastAPI)** backend for high-performance API handling
+- 🤖 **OpenAI Integration** for intelligent, context-aware responses
+- ☁️ **Vercel** for seamless deployment and hosting
+- 💬 **Real-time Q&A** system for instant student support
 
 ### 🚗 Auto Janded - Car Booking Platform
 A modern car rental platform that simplifies vehicle booking with seamless user experience and automated communications.
@@ -68,10 +82,10 @@ A fun project demonstrating API integration skills using JokeAPI to deliver rand
 This isn't about buzzwords — these are the tools I use to build, test, and deploy real solutions.
 
 **Languages & Core Tools:**
-JavaScript, Node.js, Kotlin, Jetpack Compose
+JavaScript, Node.js, Kotlin, Jetpack Compose, Python
 
 **Frameworks & APIs:**
-Express.js, REST API
+Express.js, REST API, FastAPI
 
 **Databases:**
 MongoDB, MySQL, PostgreSQL, SQL
@@ -81,6 +95,7 @@ n8n – workflow automation and data processing
 11Labs – lifelike voice synthesis  
 Retell AI – real-time voice agents  
 RAG – smart, context-aware AI conversations  
+OpenAI – intelligent chat and AI capabilities  
 GoHighLevel (GHL) – CRM and automation
 
 **DevOps & Tools:**
