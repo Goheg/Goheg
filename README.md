@@ -22,23 +22,23 @@ Imagine being on a call and actually understanding how someone feels — not jus
 
 Exideus is an emotionally intelligent, real-time AI video avatar platform. It's not just about talking to an AI — it's about reading emotions, behavior, and intent. The real magic? The insights.
 
-**Tech I used:**
-- 🧠 **RAG (Retrieval-Augmented Generation)** for smart, context-aware responses
-- 🔁 **n8n** to build backend workflows, automate data handling, and AI integration
-- 🗣 **11Labs** for lifelike voice generation
-- 🎙 **Retell AI** for real-time voice agent interactions
+**My Role & Contributions:**
+- 🔁 **Built backend workflows with n8n** for automated data handling and AI integration
+- 🧠 **Integrated RAG systems** for smart, context-aware responses
+- 🗣 **Connected 11Labs API** for lifelike voice generation
+- 🎙 **Integrated Retell AI** for real-time voice agent interactions
 
 ### 🧠 Empathicscan - AI-Powered Emotional Analysis
 An innovative platform that analyzes emotional intelligence through advanced AI processing and automated workflows.
 
 **Live Site:** [https://empathicscan.com/](https://empathicscan.com/)
 
-**Tech Stack & Contributions:**
-- 🔄 **n8n** for complex workflow automation and data processing
-- 📊 **Tally Forms** for seamless user data collection and integration
-- 🗣 **11Labs** for lifelike voice synthesis and audio analysis
-- 🤖 **AI Integration** for emotional analysis and insights generation
-- ⚡ **Automated pipelines** for real-time data processing
+**My Role & Contributions:**
+- 🔄 **Built complex backend workflows** using n8n for data processing
+- 📊 **Integrated Tally Forms** for seamless user data collection
+- 🗣 **Connected 11Labs API** for voice synthesis and analysis
+- ⚡ **Created automated pipelines** for real-time data processing
+- 🤖 **Implemented AI integration workflows** for emotional analysis
 
 ### 🎓 FUOYE Chatbot - University AI Assistant
 An intelligent university chatbot that provides real-time answers to student inquiries, making campus information accessible instantly.
@@ -83,7 +83,7 @@ This isn't about buzzwords — these are the tools I use to build, test, and dep
 JavaScript, Node.js, Kotlin, Jetpack Compose, Python
 
 **Frameworks & APIs:**
-Express.js, REST API
+Express.js, REST API, FastAPI
 
 **Databases:**
 MongoDB, MySQL, PostgreSQL, SQL
@@ -94,7 +94,7 @@ n8n – workflow automation and data processing
 Retell AI – real-time voice agents  
 RAG – smart, context-aware AI conversations  
 OpenAI – intelligent chat and AI capabilities  
-GoHighLevel (GHL)  – CRM and automation
+GoHighLevel (GHL) – CRM and automation
 
 **DevOps & Tools:**
 npm, Git, GitHub Actions, Vercel, SMTP
