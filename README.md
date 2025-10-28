@@ -23,10 +23,7 @@ Imagine being on a call and actually understanding how someone feels — not jus
 Exideus is an emotionally intelligent, real-time AI video avatar platform. It's not just about talking to an AI — it's about reading emotions, behavior, and intent. The real magic? The insights.
 
 **My Role & Contributions:**
-- 🔁 **Built backend workflows with n8n** for automated data handling and AI integration
-- 🧠 **Integrated RAG systems** for smart, context-aware responses
-- 🗣 **Connected 11Labs API** for lifelike voice generation
-- 🎙 **Integrated Retell AI** for real-time voice agent interactions
+- 🔁 **Built backend workflows with n8n** for automated data handling and AI integration 
 
 ### 🧠 Empathicscan - AI-Powered Emotional Analysis
 An innovative platform that analyzes emotional intelligence through advanced AI processing and automated workflows.
